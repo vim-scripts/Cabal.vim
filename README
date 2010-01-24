@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2625
+
+Syntax for the cabal build system.
+Also contain a ftdetect file to associate all *.cabal files with the syntax
+Should recognize all commands of the current version.
+
+Checkout http://www.vim.org/scripts/script.php?script_id=2611 for some cabal snippets
